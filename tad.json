@@ -1,0 +1,118 @@
+{
+  "beautifierLibName" : "beautifier",
+  "duplicateLinesDefault" : 5,
+  "debugEnabled" : false,
+  "taskBasicIncomplete" : " ",
+  "consoleWarnMarker" : "⚠️ ",
+  "beautifierURL" : "https:\/\/tadpole.thoughtasylum.com\/assets\/library\/beautifier.js",
+  "draft_javascript" : {
+    "extension" : "js",
+    "tags" : [
+      "javascript"
+    ],
+    "syntax" : "JavaScript"
+  },
+  "actions" : {
+    "info" : {
+      "Display System & App Settings" : "TAD-Display Drafts and System Information",
+      "Display Library Settings" : "TAD-Display Settings"
+    }
+  },
+  "draft_discourse" : {
+    "extension" : "mmd",
+    "tags" : [
+      "Discourse"
+    ],
+    "syntax" : "MultiMarkdown"
+  },
+  "msgTitleInfo" : "💡 INFORMATION 💡",
+  "taskBasicComplete" : "x",
+  "consoleInfoMarker" : "💡 ",
+  "templateFilter" : "archive",
+  "settingsPath" : "\/Library\/Scripts\/tad.json",
+  "separatorDateTimeStamp" : "-",
+  "runTagScript" : "javascript",
+  "consoleDebugMarker" : "🐞 ",
+  "draft_markdown" : {
+    "extension" : "md",
+    "tags" : [
+
+    ],
+    "syntax" : "Markdown"
+  },
+  "taskBasicStart" : "- [",
+  "testLibsEnable" : false,
+  "encodeMap" : {
+    "*" : "%2A",
+    "!" : "%21",
+    "(" : "%28",
+    "~" : "%7E",
+    ")" : "%29",
+    "'" : "%27"
+  },
+  "libName" : "tad",
+  "libSourceURL" : "https:\/\/tadpole.thoughtasylum.com\/assets\/library\/tad.js",
+  "dataPath" : "\/Library\/Scripts\/tad-data.json",
+  "msgTitleDebug" : "🐞 ⒹⒺⒷⓊⒼ 🐞",
+  "draft_multimarkdown" : {
+    "extension" : "mmd",
+    "tags" : [
+
+    ],
+    "syntax" : "MultiMarkdown"
+  },
+  "buttonLabelTruncation" : 32,
+  "commands" : {
+    "url" : "OPEN_URL|<1>",
+    "wsc" : "RUN_FUNCTION|Workspace.TA_selectLoadWorkspaceByButton",
+    "actdir" : "OPEN_URL|https:\/\/actions.getdrafts.com",
+    "act" : "RUN_ACTION|<1>",
+    "tag" : "RUN_FUNCTION|draft.TA_tagAddCSV",
+    "ws" : "RUN_FUNCTION|app.TA_applyWorkspaceByName",
+    "cbdic" : "RUN_ACTION|TAD-Dictate-to-clipboard"
+  },
+  "testLibsListPath" : "\/Library\/Scripts\/tad-testlibs.txt",
+  "msgTitleWarn" : "⚠️ WARNING ⚠️",
+  "separatorTimeStamp" : ".",
+  "runSyntax" : "JavaScript",
+  "templateTags" : [
+    "template"
+  ],
+  "draft_taskpaper" : {
+    "extension" : "taskpaper",
+    "tags" : [
+
+    ],
+    "syntax" : "Taskpaper"
+  },
+  "taskBasicEnd" : "] ",
+  "consoleSuccessMarker" : "✅️ ",
+  "runTag" : "#run#",
+  "taskBasicSyntax" : "Simple List",
+  "beautifierSettings" : "beautifier",
+  "draft_simple_list" : {
+    "extension" : "txt",
+    "tags" : [
+
+    ],
+    "syntax" : "Plain Text"
+  },
+  "draft_github_markdown" : {
+    "extension" : "mmd",
+    "tags" : [
+
+    ],
+    "syntax" : "GitHub Markdown"
+  },
+  "draft_plain_text" : {
+    "extension" : "txt",
+    "tags" : [
+
+    ],
+    "syntax" : "Plain Text"
+  },
+  "separatorDateStamp" : "-",
+  "runArea" : "inbox",
+  "msgTitleError" : "⛔️ ERROR ⛔️",
+  "consoleErrorMarker" : "⛔️ "
+}
