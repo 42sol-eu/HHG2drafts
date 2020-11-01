@@ -1554,11 +1554,7 @@ Draft.prototype.TA_draftNewFromClipboardURL = function()
     return this.TA_draftNew(objHTTP.TA_getURLContentClipboard());
 }
 
-// Create and load a new draft based on the URL on the clipboard.
-Draft.prototype.TA_draftNewFromClipboardURLAndLoad = function()
-{
-    return editor.TA_loadAc(this.TA_draftNewFromClipboardURL());
-}
+m
 
 
 // Create a new draft based on a template stored in a template file
